@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background: #ffffff;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.reloj
+{
+	display: flex;
+	margin-left: 50rem;
+}
+
+.logo {
+	text-align: center;
+	margin-bottom: 40px;
+}
